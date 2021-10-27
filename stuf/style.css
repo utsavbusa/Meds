@@ -97,7 +97,7 @@ transform: translate(-110%, -50%);
    font-size: 6rem;
      
 }
-.home .carousel-indicators button[data-bs-target]{
+.home .carousel-indicators button{
     background-color: var(--bg-danger);
     width: 2.5rem;
     height: 0.313rem;
